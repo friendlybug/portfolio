@@ -20,7 +20,7 @@ Responsibilities:
 - **Achievements:** Designed and implemented the strategically Battleship game prototype for lottery tickets across Canada
 
 ### Education
-_**B.Sc.**_ in Applied **Computer Science **
+_**B.Sc.**_ in Applied **Computer Science**
 The **University of Winnipeg** 2006 -2009 
 
 
