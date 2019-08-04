@@ -1,30 +1,43 @@
 ### Career Objective
 
 <!-- To secure a career as an Object Oriented Software Engineer in **Java** or **C/C++**. -->
-To secure a full stack development position using **HTML, databases, SQL , Java, Linux, bash, CSS.**
+<!-- To secure a full stack development position using **HTML, databases, SQL , Java, Linux, bash, CSS.** -->
+To continue using my current skills of object oriented design, leadership, coaching and mentoring and gain new skills in Mobile App Development using XCode, Android SDK and other new technologies.
 
 ### Professional Summary
 A high performing and dedicated professional equipped with the experience and skill to work in a dynamic and technical environment and close to **3 years** of experience in object-oriented development and programming analysis. An eager learner, I pride myself on my ability to successfully take on new challenges and develop ever expanding areas of expertise. Among my strengths, I am a disciplined and hardworking individual with a demonstrated ability to balance the competing demands of multiple projects. Passionate about innovative solutions and complex technological challenges, I have established a reputation as an effective and valuable employee. A skilled communicator with the ability to establish rapport with diverse people and effectively collaborate within a team and highly adaptable with the qualities needed to be efficient in fast-paced multitasking environments. A resourceful and confident individual with an infectious enthusiasm for technology, innovation and all forms of learning.
 
 ### Work Experience
-_Programmer Analyst_
-Pollard Banknote, Winnipeg Manitoba	2010 – 2012
-Responsibilities:
+Peel Plastics, Brampton, Ontario
+Programmer Analyst	2017 - Present
 
-- Developed departmental programs to facilitate the testing of generated lottery ticket data using Object Oriented programming languages 
+•	Mentor and Coach University of Toronto Co-Op Students
+•	Compile Reports Using Crystal Reports and Oracle PL/SQL
+•	Respond to urgent Manager and Supervisor requests to fetch Production Real Time Data
+•	Recommend improvements to current practices and System Controls
+•	Maintain System Protocols by writing and updating Procedures
 
-- Analyzed customer specifications and requirements and performed program testing, debugging, data analysis and program documentation
-- Worked effectively under a deadline orientated manufacturing environment producing high security lottery products within the Internal Audit department
-- Produced operational reports for management providing thorough and detailed data
-- Continuously revised, maintained and updated programs and documentation as required
-- Used Java and C/C++, **bash scripting**, **Linux** Centos Operating System.
-- **Achievements:** Designed and implemented the strategically Battleship game prototype for lottery tickets across Canada
+Solda Pools, Brampton, Ontario
+Java Developer	2012 - 2017
+
+•	Design, build, and maintain efficient, reusable, and reliable Object-Oriented Java code
+•	Work on Projects involving the Implementation of new and existing Back-End Systems
+•	Work closely with Development Project Managers and Business Analysts
+•	Produce accurate delivery estimates and manage transition from analysis to design and delivery
+
+Pollard Banknote, Winnipeg, Manitoba
+Programmer Analyst	2010 - 2012
+
+•	Work in an Agile Development Environment
+•	Developed Software on Linux Centos 4 using C/C++ to test constraints
+•	Analysed and documented customer Lottery Ticket Game specifications ( Bingo, Crossword, Match 3 )
+•	Improved department code by enhancing bash scripts to automate email reports
+•	Credited as a strong asset to my department and Pollard Banknote.
+
 
 ### Education
 _**B.Sc.**_ in Applied **Computer Science**
 The **University of Winnipeg** 2006 -2009 
-
-
 
 ### Professional Development
 
